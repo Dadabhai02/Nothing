@@ -1,7 +1,11 @@
-### Hi There 👋
-[![telegram badge](https://img.shields.io/badge/DaDaBhai-30302f?style=flat&logo=telegram)](https://t.me/Dada_offil)
+<h1 align="center">Hi 👋, I'm DaDaBhai</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- Fact: I am Noob😌
-- Will Be From 2024...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DaDaBhai&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=midnight-purple)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadabhai02&show_icons=true&theme=dracula&locale=en" alt="dadabhai02" /></p>
